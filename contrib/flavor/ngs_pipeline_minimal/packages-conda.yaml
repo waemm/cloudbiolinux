@@ -201,6 +201,7 @@ perl:
   - perl-time-hires
   - perl-vcftools-vcf
 r:
+  - r
   - r-base
   - xorg-libxt
   - r-basejump=0.7.2
